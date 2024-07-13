@@ -3,7 +3,7 @@
 **`Web & Video game developer`**
 
 I'm an front-end & video game developer building my versions of these amazing digital mediums. All of my coding projects are built
-from the ground up, from planning and designing the project itself to finising touches. My goal is to make people who wish to use my projects satisfied
+from the ground up, from planning and designing the project itself to finishing touches. My goal is to make people who wish to use my projects satisfied
 with quality control and always asking myself during the development process "Would i use or play this?". 
 
 #
