@@ -28,7 +28,7 @@ with quality control and always asking myself during the development process "Wo
 
 ### 📊 Stats
 
-![Mikael's GitHub stats](https://github-readme-stats-ruby-one.app/api?username=MikaelVV&show_icons=true&theme=tokyonight)
+![Mikael's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=MikaelVV&show_icons=true&theme=tokyonight)
 
 
 
