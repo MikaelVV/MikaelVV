@@ -1,6 +1,6 @@
 ## 🏂 Mikael 
 
-**'Web & Video game developer'**
+**`Web & Video game developer`**
 
 I'm an front-end & video game developer building my versions of these amazing digital mediums. All of my coding projects are built
 from the ground up, from planning and designing the project itself. My goal is to make people who wish to use my projects satisfied
@@ -18,7 +18,8 @@ with quality control and asking myself "Would i use or play this?".
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
-##
+#
+#
 
 ### 📊 Stats
 
