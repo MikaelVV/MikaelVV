@@ -25,9 +25,9 @@ from the ground up, from planning and designing the project itself to finishing 
 
 #
 
-### 📊 Stats
+<!--### 📊 Stats
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelVV&show_icons=true&theme=tokyonight)
+![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelVV&show_icons=true&theme=tokyonight) -->
 
 
 
