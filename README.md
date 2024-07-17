@@ -1,6 +1,6 @@
 ## 🏂 Mikael 
 
-**`Video game & Web developer`**
+**`Game & Web developer`**
 
 I'm an video game & front-end developer building my versions of these amazing digital mediums. All of my coding projects are built
 from the ground up, from planning and designing the project itself to finishing touches. 
